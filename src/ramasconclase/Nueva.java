@@ -11,6 +11,6 @@ package ramasconclase;
  */
 public class Nueva {
     public void Hi(){
-        System.out.println("Hi!!");
+        System.out.println("Hi!!!");
     }
 }
