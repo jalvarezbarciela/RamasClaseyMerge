@@ -10,5 +10,7 @@ package ramasconclase;
  * @author ceque
  */
 public class Nueva {
-    
+    public void Hi(){
+        System.out.println("Hi!!");
+    }
 }
